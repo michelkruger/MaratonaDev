@@ -1,2 +1,7 @@
 # MaratonaDev
- Programa de doações feito para estudo.
+ Programa de doações de sangue feito para estudo.
+ 
+ tecnologias utilizadas:
+ 
+ HTML, CSS, JAVASCRIPT, NODE.JS, POSTGRESQL
+ 
